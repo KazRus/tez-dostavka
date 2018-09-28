@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9e33a3ab-f5ff-455c-8f75-9d7a116003f4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="nile-logistics.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -324,7 +323,13 @@
       <option name="project" value="LOCAL" />
       <updated>1538139615032</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="123">
+      <created>1538139632345</created>
+      <option name="number" value="00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1538139632345</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
