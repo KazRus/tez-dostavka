@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9e33a3ab-f5ff-455c-8f75-9d7a116003f4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="nile-logistics.iws" />
@@ -28,14 +29,14 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.62931037">
-              <caret line="112" column="37" selection-start-line="112" selection-start-column="37" selection-end-line="112" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.42413792">
+              <caret line="105" column="83" selection-start-line="105" selection-start-column="83" selection-end-line="105" selection-end-column="83" />
               <folding>
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#script#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <marker date="1538134842018" expanded="true" signature="8196:8221" placeholder="..." />
-                <marker date="1538134842018" expanded="true" signature="67722:67751" placeholder="..." />
+                <marker date="1538134986049" expanded="true" signature="8196:8221" placeholder="..." />
+                <marker date="1538134986049" expanded="true" signature="67722:67751" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -45,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-17.73077">
-              <caret line="335" column="1" selection-start-line="335" selection-start-column="1" selection-end-line="335" selection-end-column="1" />
+              <caret line="341" column="1" selection-start-line="341" selection-start-column="1" selection-end-line="341" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -279,7 +280,13 @@
       <option name="project" value="LOCAL" />
       <updated>1538134503040</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="кеукпук">
+      <created>1538134848713</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1538134848713</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -334,8 +341,8 @@
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#script#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1538134842018" expanded="true" signature="8196:8221" placeholder="..." />
-            <marker date="1538134842018" expanded="true" signature="67722:67751" placeholder="..." />
+            <marker date="1538134986049" expanded="true" signature="8196:8221" placeholder="..." />
+            <marker date="1538134986049" expanded="true" signature="67722:67751" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -404,21 +411,21 @@
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-17.73077">
-          <caret line="335" column="1" selection-start-line="335" selection-start-column="1" selection-end-line="335" selection-end-column="1" />
+          <caret line="341" column="1" selection-start-line="341" selection-start-column="1" selection-end-line="341" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.62931037">
-          <caret line="112" column="37" selection-start-line="112" selection-start-column="37" selection-end-line="112" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.42413792">
+          <caret line="105" column="83" selection-start-line="105" selection-start-column="83" selection-end-line="105" selection-end-column="83" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#script#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1538134842018" expanded="true" signature="8196:8221" placeholder="..." />
-            <marker date="1538134842018" expanded="true" signature="67722:67751" placeholder="..." />
+            <marker date="1538134986049" expanded="true" signature="8196:8221" placeholder="..." />
+            <marker date="1538134986049" expanded="true" signature="67722:67751" placeholder="..." />
           </folding>
         </state>
       </provider>
