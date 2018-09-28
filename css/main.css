@@ -326,3 +326,19 @@ header ul.white-link > li.active > a {
     color: #E53935;
     padding-left: 20px;
 }
+
+/*
+.hidden-logo {
+    display: none;
+}
+*/
+
+/*
+@media only screen and (max-width: 991px)  {
+    #logo img {
+        display: none;
+    }
+    #logo .hidden-logo {
+        display: block;
+    }
+}*/
