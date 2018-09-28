@@ -328,7 +328,7 @@ header ul.white-link > li.active > a {
 }
 
 
-@media only screen and (max-width: 480px)  {
+@media only screen and (max-width: 991px)  {
     .nile-accordion .card-header .btn-link {
         font-size: 12px !important;
         font-family: RobotoLight;
