@@ -28,14 +28,14 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.43194193">
-              <caret line="164" column="0" selection-start-line="164" selection-start-column="0" selection-end-line="164" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.27767694">
+              <caret line="159" column="3" selection-start-line="159" selection-start-column="3" selection-end-line="159" selection-end-column="3" />
               <folding>
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#script#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <marker date="1538137998579" expanded="true" signature="8196:8221" placeholder="..." />
-                <marker date="1538137998579" expanded="true" signature="68079:68108" placeholder="..." />
+                <marker date="1538138853431" expanded="true" signature="8196:8221" placeholder="..." />
+                <marker date="1538138853431" expanded="true" signature="68078:68107" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -297,7 +297,13 @@
       <option name="project" value="LOCAL" />
       <updated>1538135143136</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="кеукпук">
+      <created>1538138006669</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1538138006669</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -352,8 +358,8 @@
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#script#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1538137998579" expanded="true" signature="8196:8221" placeholder="..." />
-            <marker date="1538137998579" expanded="true" signature="68079:68108" placeholder="..." />
+            <marker date="1538138853431" expanded="true" signature="8196:8221" placeholder="..." />
+            <marker date="1538138853431" expanded="true" signature="68078:68107" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -429,14 +435,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43194193">
-          <caret line="164" column="0" selection-start-line="164" selection-start-column="0" selection-end-line="164" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.27767694">
+          <caret line="159" column="3" selection-start-line="159" selection-start-column="3" selection-end-line="159" selection-end-column="3" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#script#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1538137998579" expanded="true" signature="8196:8221" placeholder="..." />
-            <marker date="1538137998579" expanded="true" signature="68079:68108" placeholder="..." />
+            <marker date="1538138853431" expanded="true" signature="8196:8221" placeholder="..." />
+            <marker date="1538138853431" expanded="true" signature="68078:68107" placeholder="..." />
           </folding>
         </state>
       </provider>
