@@ -1,0 +1,328 @@
+body {
+    font-family: RobotoRegular !important;
+}
+
+@font-face {
+    font-family: RobotoRegular;
+    src: url(../fonts/RobotoRegular.ttf)
+}
+
+@font-face {
+    font-family: RobotoLight;
+    src: url(../fonts/RobotoLight.ttf)
+}
+
+@font-face {
+    font-family: BloggerSans-Bold;
+    src: url(../fonts/BloggerSans-Bold.otf)
+}
+
+@font-face {
+    font-family: BloggerSans;
+    src: url(../fonts/Blogger%20Sans.ttf)
+}
+
+[type=submit],
+.ba-main-color,
+.features-1 .features-item .tfassel .cat a,
+.features-2 .features-item .tfassel .cat a,
+.features-3 .features-item .tfassel .cat a,
+.features-3 .features-item .tfassel a.title,
+.section-img-text-1 .cart-img .tfassel a.more:before,
+.project-item-1 .hover-option a.more:before,
+.section-clients-1 .client-item h4:before,
+.post-list .thum .icon span,
+.post-grid.layout-2 .icon-in span,
+.post-grid .thum .icon span,
+.post-standard .thum .icon span,
+.nile-widget.widget_mc4wp_form_widget .mc4wp-form input[type="submit"],
+.nile-widget.widget_calendar #wp-calendar tbody td:hover,
+.nile-widget form.search-form input.search-submit,
+.nile-widget .about-me a.bot,
+.owl-pagination .owl-page.active span,
+.posts-output .nile-buttom.load-more,
+#comments input.submit,
+header a.nav-bottom,
+header a.model-link span,
+.cart-model a.btn-outline-primary:hover,
+footer .nile-widget.layout-1 .title:before,
+#back-to-top,
+.woocommerce .widget_shopping_cart .woocommerce-mini-cart__buttons a.button,
+.vc_post-grid .thum .icon span,
+.woocommerce span.onsale,
+.niletheme-pagination ul.pagination li.active a,
+.background-main-color,
+a.nile-bottom,
+.service.layout-2,
+.price-table.active,
+a.action-bottom:hover,
+.blog-item .date span.day {
+    background-color: #e53935;
+}
+
+.text-main-color,
+.section-projects-slider .niletheme-section-title a.title-link,
+.section-masonry-blog .niletheme-section-title a.title-link,
+.post-masonry .post-image .img_in:after,
+.post-masonry .post-video .img_in:after,
+.tabs-filter ul li.active,
+.tabs-filter ul li:hover,
+.post-list .post-info .cats a,
+.post-grid .post-info .cats a,
+.post-standard .post-info .cats a,
+.nile-widget.widget_mc4wp_form_widget .mc4wp-form label:before,
+.nile-widget .lastet-Posts-slider .post .cats a,
+.post-cats a,
+footer .nile-widget.widget_recent_entries ul li a:hover,
+footer .nile-widget.widget_recent_comments ul#recentcomments li a:hover,
+footer .nile-widget.widget_archive ul li a:hover,
+footer .nile-widget.widget_categories ul li a:hover,
+footer .nile-widget.widget_meta ul li a:hover,
+.niletheme-section-title a.title-link,
+.woocommerce div.product p.price,
+.woocommerce div.product span.price {
+    color: #e53935 !important;
+}
+
+.tabs-filter ul li.active,
+.section-projects-slider .niletheme-section-title a.title-link,
+.section-masonry-blog .niletheme-section-title a.title-link,
+.tabs-filter ul li.active,
+.tabs-filter ul li:hover,
+.cart-model a.btn-outline-primary,
+.niletheme-section-title a.title-link,
+.sticky-post,
+.niletheme-section-title .sub_title {
+    border-color: #e53935 !important;
+}
+
+.ba-second-color,
+.background-second-color,
+a.bottom-effect:hover,
+.cart-model a.btn-primary,
+#back-to-top:hover,
+.woocommerce .widget_shopping_cart .woocommerce-mini-cart__buttons a.button.checkout {
+    background-color: #3f3e3e !important;
+}
+
+.owl-theme .owl-controls .owl-page span {
+    background: #3f3e3e !important;
+}
+
+.text-second-color {
+    color: #3f3e3e !important;
+}
+
+a.bottom-effect:hover,
+header.layout-5,
+.nile-widget-area .nile-widget {
+    border-color: #3f3e3e !important;
+}
+
+.niletheme-section-title a.title-link:hover {
+    color: #fff !important;
+    border-color: #3f3e3e !important;
+    background-color: #3f3e3e !important;
+}
+
+/*---------- Woocommerce ----------*/
+
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt {
+    background-color: #e53935;
+}
+
+@media only screen and (max-width: 991px) {
+
+    #comments ol.comment-list li .comment-body .reply a {
+        color: #e53935 !important;
+    }
+}
+
+.niletheme-section-title.style_light .sub_title {
+    border-color: #fff !important;
+}
+
+img.wp-smiley,
+img.emoji {
+    display: inline !important;
+    border: none !important;
+    box-shadow: none !important;
+    height: 1em !important;
+    width: 1em !important;
+    margin: 0 .07em !important;
+    vertical-align: -0.1em !important;
+    background: none !important;
+    padding: 0 !important;
+}
+
+.woocommerce form .form-row .required {
+    visibility: visible;
+}
+
+.vc_custom_1537225212006 {
+    padding-bottom: 100px !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
+.vc_custom_1537096661723 {
+    padding-top: 180px !important;
+    padding-bottom: 180px !important;
+    background-image: url(wp-content/uploads/2018/09/call-action.jpg?id=412) !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
+.vc_custom_1536272450787 {
+    padding-top: 100px !important;
+    padding-bottom: 100px !important;
+    background: #ffffff url(wp-content/uploads/2018/09/ba_1.jpg?id=39) !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: contain !important;
+}
+
+.vc_custom_1536432340008 {
+    padding-top: 100px !important;
+    padding-bottom: 70px !important;
+    background-color: #f2f2f2 !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
+.vc_custom_1536308964987 {
+    padding-top: 100px !important;
+    padding-bottom: 80px !important;
+}
+
+.vc_custom_1536315244108 {
+    padding-top: 100px !important;
+    padding-bottom: 65px !important;
+    background-color: #f2f2f2 !important;
+}
+
+.vc_custom_1536656980407 {
+    padding-top: 100px !important;
+    padding-bottom: 100px !important;
+    background-image: url(wp-content/uploads/2018/09/ba_1.jpg?id=39) !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
+.vc_custom_1536368686904 {
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+.vc_custom_1537225311815 {
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+.vc_custom_1536194185346 {
+    margin-top: 30px !important;
+}
+
+.vc_custom_1537345404573 {
+    margin-bottom: 50px !important;
+}
+
+.vc_custom_1537345397344 {
+    margin-bottom: 40px !important;
+}
+
+.vc_custom_1537345980456 {
+    margin-bottom: 30px !important;
+}
+
+.vc_custom_1537031935412 {
+    margin-bottom: 30px !important;
+}
+
+.vc_custom_1537031910669 {
+    margin-bottom: 30px !important;
+}
+
+.vc_custom_1537346235991 {
+    margin-bottom: 30px !important;
+}
+
+.wpb_animate_when_almost_visible {
+    opacity: 1;
+}
+
+#logo img {
+    width: 100px;
+}
+
+header ul.white-link > li.active > a {
+    color: #fff;
+    font-family: RobotoRegular;
+}
+
+.margin-tb-11px {
+    margin-top: 11px;
+}
+
+.ds {
+    font-family: RobotoRegular !important
+}
+
+.icon_55797840 .text-icon-large, .icon_55797840 .title {
+    color: #dd3333 !important;
+}
+
+.icon_3450871 .text-icon-large, .icon_3450871 .title {
+    color: #dd3333 !important;
+}
+
+.title-text {
+    font-family: RobotoLight;
+}
+
+.nile-accordion .card-header .btn-link {
+    font-size: 15px !important;
+    font-family: RobotoLight;
+
+}
+
+.cart-service .text {
+    font-family: RobotoLight;
+}
+
+.cart-service h2 {
+    font-family: RobotoRegular;
+}
+
+.blog-item .post-info a.title {
+    font-family: BloggerSans !important;
+    font-weight: 400;
+    font-size: 16px;
+}
+.price-table .price {
+    font-size: 15px;
+    font-weight: 400;
+
+}
+.main-color {
+    color: #E53935;
+    font-size: 16px;
+}
+.copy-right a{
+    color: #E53935;
+}
+.copy-right-text a {
+    color: #E53935;
+    padding-left: 20px;
+}
