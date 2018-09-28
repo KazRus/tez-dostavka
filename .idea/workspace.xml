@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9e33a3ab-f5ff-455c-8f75-9d7a116003f4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
     </list>
     <ignored path="nile-logistics.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30689654">
-              <caret line="209" column="86" selection-start-line="209" selection-start-column="84" selection-end-line="209" selection-end-column="86" />
+            <state vertical-scroll-proportion="0.24827586">
+              <caret line="207" column="56" selection-start-line="207" selection-start-column="56" selection-end-line="207" selection-end-column="56" />
               <folding>
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -261,7 +260,13 @@
       <option name="project" value="LOCAL" />
       <updated>1538133204273</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="кеукпук">
+      <created>1538134216083</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1538134216083</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -393,8 +398,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30689654">
-          <caret line="209" column="86" selection-start-line="209" selection-start-column="84" selection-end-line="209" selection-end-column="86" />
+        <state vertical-scroll-proportion="0.24827586">
+          <caret line="207" column="56" selection-start-line="207" selection-start-column="56" selection-end-line="207" selection-end-column="56" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
